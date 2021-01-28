@@ -1,0 +1,4 @@
+/* sets up the grid in the pathfinding visualizer */
+.grid {
+  margin: 100px 0 0;
+}
